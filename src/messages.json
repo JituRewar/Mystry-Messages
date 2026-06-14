@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Message from Jitu",
+    "content": "Hey, I hope you're doing well. I just wanted to check in and see how you're doing.",
+    "received": "10 Minutes Ago"
+  },
+  {
+    "title": "Message from SecretAdmirer",  
+    "content": "I really like you and I hope we can meet up sometime.",
+    "received": "20 Minutes Ago"
+  },
+  {
+    "title": "Message from MysteryGuest",
+    "content": "Do you have any webseries recommendations? I'm looking for something new to watch.",
+    "received": "1 day Ago"
+  },
+  {
+    "title": "Message from CodingBuddy",
+    "content": "Bro, did you see the new Tailwind updates? Let's build something crazy tonight!",
+    "received": "2 hours Ago"
+  },
+  {
+    "title": "Message from SilentReader",
+    "content": "Your latest blog post was amazing. Keep writing, it really inspires me!",
+    "received": "3 hours Ago"
+  },
+  {
+    "title": "Message from OldFriend",
+    "content": "Remember that time we stayed up all night coding and drinking energy drinks? Good old times.",
+    "received": "5 hours Ago"
+  },
+  {
+    "title": "Message from Anonymous",
+    "content": "If you could travel anywhere in the world right now, where would you go and why?",
+    "received": "Yesterday"
+  }
+]
